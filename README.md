@@ -1,7 +1,5 @@
 # Harvard-Data-Science-Assignments
 
-Machine Learning Assignments
-
 This repository contains a collection of my machine learning assignments from my class on the topic. 
 The assignments cover a variety of topics, including classification, regression analysis, ensemble methods, web scraping, and linear algebra.
 
